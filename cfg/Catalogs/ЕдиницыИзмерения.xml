@@ -133,11 +133,11 @@
 			</Attribute>
 			<Attribute uuid="4ff73502-aa2d-4f6f-b1db-a7ee241a321b">
 				<Properties>
-					<Name>Коэффициента</Name>
+					<Name>Коэффициент</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Коэффициента</v8:content>
+							<v8:content>Коэффициент</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
