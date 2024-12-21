@@ -26,7 +26,7 @@
 			<ExtendedTooltip name="БазоваяЕдиницаИзмеренияРасширеннаяПодсказка" id="9"/>
 		</InputField>
 		<InputField name="Коэффициента" id="10">
-			<DataPath>Объект.Коэффициента</DataPath>
+			<DataPath>Объект.Коэффициент</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="КоэффициентаКонтекстноеМеню" id="11"/>
