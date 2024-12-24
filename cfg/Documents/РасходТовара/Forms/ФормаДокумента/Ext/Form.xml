@@ -291,7 +291,7 @@
 							<Behavior>Usual</Behavior>
 							<Representation>None</Representation>
 							<ShowTitle>false</ShowTitle>
-							<BackColor>web:Gainsboro</BackColor>
+							<BackColor>web:Linen</BackColor>
 							<ExtendedTooltip name="ИтогиExtendedTooltip" id="73"/>
 							<ChildItems>
 								<LabelField name="ТоварыИтогКоличество" id="43">
